@@ -38,7 +38,7 @@ Install the required packages:
 pip install django djangorestframework
 
 pip install -r requirements.txt
-git clone https://github.com/YOUR_USERNAME/coastalship-api.git
+https://github.com/raphy100/coastalship.git
 
 cd coastalship-api
 python -m venv venv
